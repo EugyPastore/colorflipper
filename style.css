@@ -1,0 +1,18 @@
+.text-style{
+	padding: 30px;
+	border-radius: 15px;
+	text-align: center;
+	background: #1abc9c;
+	color: white;
+	font-size: 30px;
+}
+.color{
+	color:brown;
+}
+.center{
+	display: flex;
+	flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
