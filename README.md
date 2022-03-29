@@ -1,4 +1,4 @@
-# colorflipper
+# Color Flipper
 The goal was to learn Javascript. 
 
 
