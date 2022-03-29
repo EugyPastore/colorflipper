@@ -1,6 +1,7 @@
 # colorflipper
-The goal Javascript basics.
+The goal was to learn Javascript. 
 
-As user clicking the button it will change the background color of the body. It will also display what color.
-Simple option is using specific predifined 4 colors from fixed array.
-Hex option generates hex colors on the fly, so there is infinite amount of color options.
+
+As the user clicks the button it will change the background color of the body. It will also display what color.
+The simple option is using specific predefined 4 colors from the fixed array.
+The hex option generates hex colors on the fly, so there is an infinite amount of color options.
